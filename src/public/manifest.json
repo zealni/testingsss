@@ -1,0 +1,48 @@
+{
+  "name": "Dicoding Stories",
+  "short_name": "Dicoding",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4CAF50",
+  "description": "A progressive web app for Dicoding Stories",
+  "icons": [
+    {
+      "src": "images/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Add New Story",
+      "short_name": "Add Story",
+      "description": "Add a new story",
+      "url": "/add-story",
+      "icons": [
+        {
+          "src": "images/logo.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "images/screenshot-desktop.png",
+      "sizes": "1280x720",
+      "type": "image/png"
+    },
+    {
+      "src": "images/screenshot-mobile.png",
+      "sizes": "375x667",
+      "type": "image/png"
+    }
+  ]
+}
